@@ -1,4 +1,4 @@
-# Proyecto Web en Equipo
+cd# Proyecto Web en Equipo
 
 ## Descripción
 Este proyecto consiste en una página web sencilla desarrollada en HTML y CSS, trabajada de forma colaborativa utilizando GitHub.
